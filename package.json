@@ -1,0 +1,24 @@
+{
+  "name": "ninja-luxtronik",
+  "version": "0.1.0",
+  "description": "Generic module for communication with Luxtronik2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cbrandlehner/ninja-luxtonik2.git"
+  },
+  "keywords": [
+    "Ninja",
+    "Blocks",
+    "Luxtronik",
+    "Module"
+  ],
+  "author": "Christian Brandlehner",
+  "license": "MIT",
+  "config":{
+    "urls":[]
+  }
+}
