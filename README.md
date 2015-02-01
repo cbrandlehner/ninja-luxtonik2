@@ -1,5 +1,5 @@
 # ninja-luxtronik2
-Ninja Block driver to read data from Luxtronik2 based heat pump controllers (Novelan, Wolf, Alpha Innotec)<br />
+Ninja Block driver to read data from Luxtronik2 based heat pump controllers (Siemens, Novelan, Wolf, Alpha Innotec)<br />
 This code was inspired by this code:<br />
 https://github.com/pfandfrei/luxtronik2
 
