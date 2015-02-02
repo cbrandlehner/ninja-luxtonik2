@@ -9,20 +9,15 @@ http://docs.ninja.is/quickstarts/driverrealm/installdrivers.html
 <b>Installing:</b><br />
 SSH to your Ninja Block and install two libraries:
 
-<blockquote>
-npm install binary<br />
-npm install socket.io-client
-</blockquote>
-
 <b>Install this Driver with:</b><br />
-<blockquote>
-ninja_install -g git@github.com:cbrandlehner/ninja-luxtronik2.git (Requires ninja toolbelt)
-</blockquote>
 <b>Manual Installation</b><br />
 <blockquote>
 cd into your drivers directory (/opt/ninja/drivers on your Ninja Block)<br />
 git clone git://github.com/cbrandlehner/ninja-luxtronik2.git<br />
-cd ninja-luxtronik2 && npm install<br />
+cd ninja-luxtronik2<br />
+npm install binary<br />
+npm install socket.io-client<br />
+npm install<br />
 sudo service ninjablock restart<br />
 </blockquote>
 
