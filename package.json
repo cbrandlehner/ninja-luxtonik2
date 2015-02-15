@@ -1,6 +1,6 @@
 {
-  "name": "ninja-luxtronik",
-  "version": "0.1.1",
+  "name": "ninja-luxtronik2",
+  "version": "0.1.3",
   "description": "Generic module for communication with Luxtronik2",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,10 @@
   "author": "Christian Brandlehner",
   "license": "MIT",
   "config":{
-    "urls":[]
+			"urls":[]
+			},
+  "dependencies": {
+	"binary" : ">= 0.3.0",
+	"socket.io-client" : ">= 1.3.2"
   }
 }
