@@ -15,7 +15,7 @@ var enabled = true;
 // Our greeting to the user.
 var HELLO_WORLD_ANNOUNCEMENT = {
   "contents": [
-    { "type": "heading",   "text": "Ninja Luxtronik2 OutsideTemp Monitor Loaded" },
+    { "type": "heading",   "text": "Ninja Luxtronik2 OutsideTemp monitor loaded" },
     { "type": "paragraph", "text": "The Ninja Luxtronik2 OutsideTemp Monitor has been loaded. You should not see this message again." }
   ]
 };
