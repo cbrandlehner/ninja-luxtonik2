@@ -6,8 +6,6 @@ https://github.com/pfandfrei/luxtronik2
 This is a driver for the Ninja Block ecosystem. Read this documentation for more information:<br />
 http://docs.ninja.is/quickstarts/driverrealm/installdrivers.html
 
-<b>Installing:</b><br />
-SSH to your Ninja Block and install two libraries:
 
 <b>Install this Driver with:</b><br />
 <b>Manual Installation</b><br />
