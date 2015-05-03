@@ -1,4 +1,8 @@
 # ninja-luxtronik2
+
+[![MIT License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+[![Ninja Sphere](https://img.shields.io/badge/works%20with-ninja%20sphere-8f72e3.svg)](http://ninjablocks.com)
+
 Ninja Block driver to read data from Luxtronik2 based heat pump controllers (Siemens, Novelan, Wolf, Alpha Innotec)<br />
 This code was inspired by this code:<br />
 https://github.com/pfandfrei/luxtronik2
